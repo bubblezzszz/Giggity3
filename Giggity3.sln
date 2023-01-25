@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giggity3", "Giggity3\Giggity3.csproj", "{5B24C0DC-62AA-4406-A817-4D9EAD2F7230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiggityLibrary2", "GiggityLibrary2\GiggityLibrary2.csproj", "{8EB41C14-7950-4336-9100-37F5F459DF75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B24C0DC-62AA-4406-A817-4D9EAD2F7230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B24C0DC-62AA-4406-A817-4D9EAD2F7230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B24C0DC-62AA-4406-A817-4D9EAD2F7230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B24C0DC-62AA-4406-A817-4D9EAD2F7230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB41C14-7950-4336-9100-37F5F459DF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB41C14-7950-4336-9100-37F5F459DF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB41C14-7950-4336-9100-37F5F459DF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB41C14-7950-4336-9100-37F5F459DF75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {973E2CF5-E2C8-443C-A6F3-5208DAC63A52}
+	EndGlobalSection
+EndGlobal
